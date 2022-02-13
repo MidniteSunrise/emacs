@@ -27,8 +27,6 @@ To load a theme add the following to your init.el
 (load-theme 'dracula t)
 ```
 
-add `include colors.conf` to the top of `~/.config/emacs/emacs.conf`
-
 #### Activating theme
 
 Reload emacs for the config to take affect.
