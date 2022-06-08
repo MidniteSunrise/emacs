@@ -2,7 +2,7 @@
 
 #### Install in Emacs 28+
 
-minimal-mistakes is available in NonGNU Elpa and thus, will be directly available starting from that version of Emacs.
+minimal-mistakes is available in [NonGNU Elpa](https://elpa.nongnu.org/nongnu/minimal-mistakes-theme.html) and thus, will be directly available starting from that version of Emacs.
 
 ```
 M-x package-install <RET> minimal-mistakes-theme
@@ -10,7 +10,7 @@ M-x package-install <RET> minimal-mistakes-theme
 
 #### Install using MELPA
 
-First, make sure to have enabled MELPA repository in your configuration. Then, you will find minimal-mistakes in the regular package listing.
+First, make sure to have [enabled MELPA repository in your configuration](https://melpa.org/#/getting-started). Then, you will find minimal-mistakes in the regular package listing.
 
 ```
 M-x package-install <RET> minimal-mistakes-theme
