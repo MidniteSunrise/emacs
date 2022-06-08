@@ -10,10 +10,10 @@ M-x package-install <RET> minimal-mistakes-theme
 
 #### Install using MELPA
 
-First, make sure to have enabled MELPA repository in your configuration. Then, you will find dracula in the regular package listing.
+First, make sure to have enabled MELPA repository in your configuration. Then, you will find minimal-mistakes in the regular package listing.
 
 ```
-M-x package-install <RET> dracula-theme
+M-x package-install <RET> minimal-mistakes-theme
 ```
 
 #### Install from Download
