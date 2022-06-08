@@ -2,7 +2,7 @@
 
 ;; Copyright 2022-present, All rights reserved
 ;;
-;; Code licensed under the GPL-TRC license
+;; Code licensed under the MIT license
 
 ;; Maintainer: minimal-mistakes <wayne6324@gmail.com>
 ;; Author: minimal-mistakes
