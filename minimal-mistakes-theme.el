@@ -3,6 +3,7 @@
 ;; Copyright 2022-present, All rights reserved
 ;;
 ;; Code licensed under the MIT license
+;; SPDX-License-Identifier: MIT
 
 ;; Maintainer: minimal-mistakes <wayne6324@gmail.com>
 ;; Author: minimal-mistakes
