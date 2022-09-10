@@ -15,7 +15,7 @@
 
 ;; A dark color theme available for a number of editors.
 ;; This theme tries as much as possible to follow the consensual
-;; specification (see URL 'https://minimal-mistakes.xyz/specs').
+;; specification (see URL 'https://minimalmistakes.org/specs').
 
 ;;; Code:
 (deftheme minimal-mistakes)

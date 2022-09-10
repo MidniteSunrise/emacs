@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [minimal-mistakes/emacs](https://minimal-mistakes.xyz/apps/code-editors/emacs).
+All instructions can be found at [minimal-mistakes/emacs](https://minimalmistakes.org/apps/code-editors/emacs).
 
 ## Team
 
